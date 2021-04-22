@@ -1,8 +1,9 @@
 
 ### Operating Systems  
 <span>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-%234ea94b.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white">
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro%20-%2343853D.svg?&style=for-the-badge&logo=manjaro&logoColor=white">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </span>
 
 ### 💻 Websites  
