@@ -44,5 +44,5 @@
 
 ### Socials
 <span>
-  <img alt="Discord" src="https://img.shields.io/badge/Stealth0725%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/Stealth%230725%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </span>
