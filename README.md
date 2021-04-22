@@ -1,4 +1,4 @@
-### IDEs (that I use)
+### IDEs
 <span>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white" />
@@ -42,7 +42,7 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 </span>
 
-![mateie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateie&theme=dark&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateie&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mateie.mateie)
+### Socials
+<span>
+  <img alt="Discord" src="https://img.shields.io/badge/%3CStealth#0725%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+</span>
