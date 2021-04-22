@@ -45,4 +45,5 @@
 ### Socials
 <span>
   <img alt="Discord" src="https://img.shields.io/badge/Stealth%230725%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://www.youtube.com/channel/UCyEKmtPWdnhMnxT_80XF25Q" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Mateie%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 </span>
