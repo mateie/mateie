@@ -50,7 +50,7 @@
 
 ### Design
 <span>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=black" />
   <img alt="GIMP" src="https://img.shields.io/badge/gimp-%2331A8FF.svg?&style=for-the-badge&logo=gimp&logoColor=white" />
 </span>
 
