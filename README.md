@@ -7,6 +7,18 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </span>
 
+<p align="center">
+<img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Mateie&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=radical" />
+</h3>
+
+</p>
+
+<br>
+
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateie&layout=compact&count_private=true&theme=radical" alt="BenRed06" />
+</p>
+
 ### Languages
 <span>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -32,25 +44,6 @@
 <span>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-</span>
-
-### Servers
-<span>
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
-  <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
-</span>
-
-### Hosting
-<span>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-</span>
-
-### Design
-<span>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=black" />
-  <img alt="GIMP" src="https://img.shields.io/badge/gimp-000000.svg?&style=for-the-badge&logo=gimp&logoColor=white" />
 </span>
 
 ### Socials
