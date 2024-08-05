@@ -3,12 +3,16 @@
   <img src="https://streak-stats.demolab.com?user=mateie&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+<br clear="both">
+
+<div align="center">
 <a href="https://mateie.pythonanywhere.com/link">
   <img
-    src="https://mateie.pythonanywhere.com?"
+    src="https://mateie.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
     alt="Current Spotify Song"
   />
 </a>
+</div>
 
 ###
 
