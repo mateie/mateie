@@ -11,9 +11,9 @@
 </p>
 
 
-<a href="https://{PA_USERNAME}.pythonanywhere.com/link">
+<a href="https://mateie.pythonanywhere.com/link">
   <img
-    src="https://{PA_USERNAME}.pythonanywhere.com"
+    src="https://mateie.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
