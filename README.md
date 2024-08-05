@@ -11,9 +11,7 @@
 </p>
 
 
-<a href="https://mateie.pythonanywhere.com/link">
   <img
     src="https://mateie.pythonanywhere.com"
     alt="Current Spotify Song"
   />
-</a>
