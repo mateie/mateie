@@ -8,7 +8,7 @@
 <div align="center">
 <a href="https://mateie.pythonanywhere.com/link">
   <img
-    src="https://mateie.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
+    src="https://mateie.pythonanywhere.com?scan=true&eq_color=rainbow&theme=dark"
     alt="Current Spotify Song"
   />
 </a>
