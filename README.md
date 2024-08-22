@@ -15,10 +15,10 @@
 </div>
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,java,cpp,python)](https://mateie.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,java,cpp,python,graphql)](https://mateie.dev)
 
 ### Libraries
-[![Libraries](https://skillicons.dev/icons?i=react,redux,graphql)](https://mateie.dev)
+[![Libraries](https://skillicons.dev/icons?i=react,redux)](https://mateie.dev)
 
 ### Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=arch,windows,apple)](https://mateie.dev)
