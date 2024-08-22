@@ -19,7 +19,7 @@
 <br clear="both">
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,java,cplusplus,python)](https://mateie.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,java,cpp,python)](https://mateie.dev)
 
 ###
 
