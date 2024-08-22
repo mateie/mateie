@@ -31,7 +31,7 @@
 </div>
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,wasm)](https://mateie.dev)
 
 ###
 
