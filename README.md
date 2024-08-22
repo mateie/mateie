@@ -17,10 +17,6 @@
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=ts,js,java,cpp,python)](https://mateie.dev)
 
-###
-
-<br clear="both">
-
 ### Libraries
 [![Libraries](https://skillicons.dev/icons?i=react,redux,graphql)](https://mateie.dev)
 
