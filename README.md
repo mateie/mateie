@@ -31,7 +31,7 @@
 </div>
 
 <div align="left">
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,java,cplusplus,python)](https://mateie.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,java,cplusplus,python)](https://skillicons.dev/)
 </div>
 
 ###
