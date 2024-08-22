@@ -21,7 +21,7 @@
 [![Libraries](https://skillicons.dev/icons?i=react,redux,graphql)](https://mateie.dev)
 
 ### Operating Systems
-[![Operating Systems](https://skillicons.dev/icons?i=windows,arch,apple)](https://mateie.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=arch,windows,apple)](https://mateie.dev)
 
 ### Social Media
 [![Youtube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/channel/UCyEKmtPWdnhMnxT_80XF25Q")
