@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
 <a href="https://mateie.pythonanywhere.com/link">
   <img
     src="https://mateie.pythonanywhere.com?scan=true&eq_color=rainbow&theme=dark"
