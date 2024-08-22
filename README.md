@@ -3,17 +3,6 @@
   <img src="https://streak-stats.demolab.com?user=mateie&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-<br clear="both">
-
-<div align="center">
-<a href="https://mateie.pythonanywhere.com/link">
-  <img
-    src="https://mateie.pythonanywhere.com?scan=true&eq_color=rainbow&theme=dark"
-    alt="Current Spotify Song"
-  />
-</a>
-</div>
-
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=ts,js,java,cpp,python,graphql)](https://mateie.dev)
 
@@ -30,3 +19,14 @@
 [![Youtube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/channel/UCyEKmtPWdnhMnxT_80XF25Q")
 
 <img src="https://raw.githubusercontent.com/mateie/mateie/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
+<div align="center">
+<a href="https://mateie.pythonanywhere.com/link">
+  <img
+    src="https://mateie.pythonanywhere.com?scan=true&eq_color=rainbow&theme=dark"
+    alt="Current Spotify Song"
+  />
+</a>
+</div>
