@@ -14,10 +14,6 @@
 </a>
 </div>
 
-###
-
-<br clear="both">
-
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=ts,js,java,cpp,python)](https://mateie.dev)
 
