@@ -33,6 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
 </div>
 
+### Libraries
+[![Libraries](https://skillicons.dev/icons?i=react,redux,graphql)](https://mateie.dev)
+
 ### 
 
 <br clear="both" />
