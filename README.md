@@ -4,7 +4,7 @@
 </div>
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,java,cpp,python,graphql)](https://mateie.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,java,php,cpp,python,graphql)](https://mateie.dev)
 
 ### Libraries
 [![Libraries](https://skillicons.dev/icons?i=react,redux,tailwind,vite,electron)](https://mateie.dev)
