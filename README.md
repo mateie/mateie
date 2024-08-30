@@ -7,7 +7,7 @@
 [![Languages](https://skillicons.dev/icons?i=ts,js,java,php,cpp,python,graphql)](https://mateie.dev)
 
 ### Libraries
-[![Libraries](https://skillicons.dev/icons?i=react,redux,tailwind,vite,electron)](https://mateie.dev)
+[![Libraries](https://skillicons.dev/icons?i=react,redux,tailwind,vite,electron,tauri)](https://mateie.dev)
 
 ### IDEs
 [![IDEs](https://skillicons.dev/icons?i=vscode,idea)](https://mateie.dev)
