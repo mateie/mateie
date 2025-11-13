@@ -6,6 +6,9 @@
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=ts,js,java,php,cpp,python)](https://mateie.dev)
 
+### Database
+[![Database](https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark&perline=15)](https://mateie.dev)
+
 ### Libraries
 [![Libraries](https://skillicons.dev/icons?i=react,redux,vite,tauri)](https://mateie.dev)
 
